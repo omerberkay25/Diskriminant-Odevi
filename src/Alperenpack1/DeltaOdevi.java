@@ -7,7 +7,7 @@ public class Alperenclass1
 	{
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("a Değişkenini Girin");
+		System.out.printlnoh yeai Girin");
 		int a = sc.nextInt();
 		System.out.println("b Değişkenini Girin");
 		int b = sc.nextInt();
